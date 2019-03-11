@@ -1,4 +1,4 @@
-#!/home/plc0/app/fuel_plc/bin/python
+#!/home/plc0/fuel/app/plc_env/bin/python
 
 import sys
 import getopt

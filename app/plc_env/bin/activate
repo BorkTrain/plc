@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/plc0/app/fuel_plc"
+VIRTUAL_ENV="/home/plc0/fuel/app/plc_env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
